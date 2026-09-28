@@ -1,7 +1,6 @@
 ==================================================
 		Powershell Function Selector (sel)
 
-c	cancel
 f	open file
 s	edit sel (open sel.txt and sel.ps1)
 More functions can be listed on this side
